@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 🙈 I am interested in `C/C++`, `Python`, `Java`, `Peer learning`!
 
-![kittyyhawk's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiittyhawk&show_icons=true&theme=merko) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiittyhawk)](https://github.com/anuraghazra/github-readme-stats)
+![kittyyhawk's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiittyhawk&show_icons=true&theme=merko) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiittyhawk&layout=compact&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kiittyhawk&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
