@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl394345u012209merytf2tfw/stats?cursusId=21&coalitionId=89" alt="jgyles's 42 stats" /></a>
 ---
 
-🙈 I am interested in `C/C++`, `Python`, `Java`, `Peer learning`!
+🙈 I am interested in `C/C++`, `Python`, `Peer learning`!
 
-![kittyyhawk's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiittyhawk&show_icons=true&theme=merko) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiittyhawk&layout=compact&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+![kittyyhawk's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiittyhawk&show_icons=true&theme=merko) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiittyhawk&layout=compact&bg_color=0a0f0b&title_color=9abe01&text_color=4f8867)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kiittyhawk&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
