@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 :seedling: I am a student of school 21
 
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl394345u012209merytf2tfw/stats?cursusId=21&coalitionId=89" alt="jgyles's 42 stats" /></a>
+
 ---
 
 🙈 I am interested in `C/C++`, `Python`, `Peer learning`!
